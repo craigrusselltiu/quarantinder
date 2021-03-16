@@ -1,3 +1,6 @@
+# Quarantinder
+Quarantinder was a project I worked on in university with a team. It is a virtual dating web application that aimed to help alleviate social isolation during the pandemic.
+
 Steps: 
 
 1. Download the MySQL workbench and MYSQL version, most recent versions. (8.0.2.1)
