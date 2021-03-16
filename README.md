@@ -15,14 +15,14 @@ My main contributions to this project include:
 2. Create credentials: 
     Create username: root
     Create password: root
-3. Login to MySQL and run the following command:
+3. Login to MySQL and run the following command:  
     ```
     create database quarantinderdb;
     ```
 4. Set up ngrok (only required for video chatting functionalities):  
     4.1. Download from https://ngrok.com/download  
     4.2. Follow the instructions on https://ngrok.com/download to connect your account  
-    4.3. Run ngrok for localhost 8080 using the following command:
+    4.3. Run ngrok for localhost 8080 using the following command:  
     ```
     ./ngrok http 8080
     ```
@@ -31,7 +31,7 @@ My main contributions to this project include:
         https://marketplace.zoom.us/develop/create  
     4.6. Copy the client id and client secrete provided by zoom, along with the ngrok forwarding link the zoom config file located at:  
         .com/groun24/quarantinder/config/ZoomConfigImpl.java  
-5. Run tests:
+5. Run tests:  
     ```
     mvn test
     ```
