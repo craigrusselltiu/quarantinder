@@ -1,7 +1,7 @@
 # Quarantinder
 Quarantinder was a project I worked on in university with a team. It is a virtual dating web application that aimed to help alleviate social isolation during the pandemic.
 
-Finished product: https://www.youtube.com/watch?v=3bilCTwv8tc
+Product video demo: https://www.youtube.com/watch?v=3bilCTwv8tc
 
 ## Contributions
 My main contributions to this project include:
