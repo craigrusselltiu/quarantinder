@@ -12,6 +12,13 @@ My main contributions to this project include:
 - Unit testing the mentioned functionalities with JUnit
 - Collaboration and coordination with code commits
 
+## What I Learned
+- Spring Framework
+- Hibernate ORM
+- Full-stack development
+- Designing RESTful web applications
+- Among other things!
+
 ## Installation Steps
 1. Download the MySQL workbench and MYSQL version, most recent versions. (8.0.2.1)
 2. Create credentials: 
