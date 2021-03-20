@@ -17,6 +17,8 @@ My main contributions to this project include:
 - Hibernate ORM
 - Full-stack development
 - Designing RESTful web applications
+- Practical application of MVC pattern
+- Using MySQL as a database for a web app
 - Among other things!
 
 ## Installation Steps
