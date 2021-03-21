@@ -1,6 +1,8 @@
 # Quarantinder
 Quarantinder was a project I worked on in university with a team. It is a virtual dating web application that aimed to help alleviate social isolation during the pandemic.
 
+Video Demo: https://www.youtube.com/watch?v=3bilCTwv8tc
+
 ## Contributions
 My main contributions to this project include:
 - Viewing user profiles via RESTful URL design
@@ -9,6 +11,15 @@ My main contributions to this project include:
 - Account deletion and updating MySQL database accordingly
 - Unit testing the mentioned functionalities with JUnit
 - Collaboration and coordination with code commits
+
+## What I Learned
+- Spring Framework
+- Hibernate ORM
+- Full-stack development
+- Designing RESTful web applications
+- Practical application of MVC pattern
+- Using MySQL as a database for a web app
+- Among other things!
 
 ## Installation Steps
 1. Download the MySQL workbench and MYSQL version, most recent versions. (8.0.2.1)
